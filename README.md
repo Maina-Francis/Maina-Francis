@@ -8,7 +8,7 @@ Fullstack Developer
 * 🖥️  See my portfolio at [Maina-Francis](http://mainafrancis.com/)
 * ✉️  You can contact me at [francismainakabutha@gmail.com](mailto:francismainakabutha@gmail.com)
 * 🚀  I'm currently working on [Lyriks](http://github.com/Maina-Francis/lyriks-music-app)
-* 🧠  I'm learning TypeScript
+* 🧠  I'm learning Nodejs & NestJs
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
