@@ -5,7 +5,7 @@ Fullstack Developer
 -------------------
 
 * 🌍  I'm based in Nairobi
-* 🖥️  See my portfolio at [Maina-Francis](http://mainafrancis.com/)
+* 🖥️  See my portfolio at [Francis-Maina](https://francismaina.com/)
 * ✉️  You can contact me at [francismainakabutha@gmail.com](mailto:francismainakabutha@gmail.com)
 * 🚀  I'm currently working on Building FHIR compliant Revenue Cycle Management System
 * 🧠  I'm learning Microsoft Azure
