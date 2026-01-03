@@ -42,13 +42,16 @@ I bridge the gap between complex backend architectures and polished user experie
 
 ---
 
-### 📈 GitHub Stats
+### 📬 Let's Connect
+
+I am always open to discussing complex engineering challenges, AI architecture, or potential partnerships.
+
+- **Portfolio:** [francismaina.com](https://francismaina.com)
+- **LinkedIn:** [linkedin.com/in/francis-maina-kabutha](https://www.linkedin.com/in/francis-maina-kabutha/)
+- **Email:** [francismainakabutha@gmail.com](mailto:francismainakabutha@gmail.com)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maina-Francis&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=3b82f6&icon_color=3b82f6" alt="Francis's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maina-Francis&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=3b82f6" alt="Top Languages" />
+  <a href="https://calendly.com/francismaina/online-meetings">
+    <img src="https://img.shields.io/badge/Book_a_Discovery_Call-3b82f6?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Book a Call" />
+  </a>
 </p>
-
----
-
-[Website](https://francismaina.com) • [LinkedIn](https://www.linkedin.com/in/francis-maina-kabutha/) • [Book a Call](https://calendly.com/francismaina/online-meetings)
