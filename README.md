@@ -42,6 +42,20 @@ I bridge the gap between complex backend architectures and polished user experie
 
 ---
 
+### 🤝 Tech for Good
+
+I believe technology is most powerful when it serves humanity. I actively dedicate a portion of my time to **volunteer as an engineer** for non-profits solving difficult global problems.
+
+I am particularly interested in contributing technical expertise to organizations focused on:
+- 🌍 **Climate Change & Sustainability**
+- ⚖️ **Civil Rights & Social Action**
+- 🏥 **Medical Research & Mental Health**
+- 🍎 **Food Security & Agriculture**
+
+*If you are a non-profit in this space needing help with cloud infrastructure, AI integration, or software development & web strategy, please reach out.*
+
+---
+
 ### 📬 Let's Connect
 
 I am always open to discussing complex engineering challenges, AI architecture, or potential partnerships.
@@ -51,7 +65,7 @@ I am always open to discussing complex engineering challenges, AI architecture, 
 - **Email:** [francismainakabutha@gmail.com](mailto:francismainakabutha@gmail.com)
 
 <p align="left">
-  <a href="https://calendly.com/francismaina/online-meetings">
+  <a target="_blank" rel="noopener noreferrer" href="https://calendly.com/francismaina/online-meetings">
     <img src="https://img.shields.io/badge/Book_a_Discovery_Call-3b82f6?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Book a Call" />
   </a>
 </p>
